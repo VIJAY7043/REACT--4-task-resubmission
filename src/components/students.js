@@ -1,6 +1,5 @@
 import React from 'react';
 import Block from '../crud/paste';
-import Addstudents from '../Addstudent/addstudent';
 import Editstudent from '../Editstudent/editstudent';
 
 
